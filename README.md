@@ -15,7 +15,7 @@ Sustav upravljanja gradskim prijevozom putnika
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Mark Cvitan | mcvitan21@student.foi.hr | 000000000 | githubuser
+Mark Cvitan | mcvitan21@student.foi.hr | 000000000 | mcvitan21
 
 
 ## Opis domene
