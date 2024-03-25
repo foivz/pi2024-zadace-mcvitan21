@@ -25,7 +25,7 @@ Projekt se bavi digitalizacijom poslovanja gradskog autobusnog prijevoza u Vara�
 Zahtjevi za izradu ovog programske proizvoda uključuju digitalizaciju poslovnih procesa gradskog autobusnog prijevoza. Potrebno je razviti sustav za digitalno definiranje vozila, autobusnih stanica, linija i vozni red radi efikasnog upravljanja. Također je važno omogućiti putnicima pristup jasnim informacijama o linijama i voznim redovima na autobusnim stanicama te osigurati brzu i pouzdanu prodaju karata putem kioska. Sustav bi trebao podržavati praćenje broja putnika u autobusima radi boljeg upravljanja kapacitetima i osiguranja točnosti polazaka. Konačno, potrebno je implementirati funkcionalnosti koje će olakšati putovanje umirovljenicima pružanjem detaljnih informacija o putovanju do njihovih odredišta.
 
 ## Zadatak
-(U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje!)Zadatak - Gradski prijevoz.pdf
+(U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje!)https://github.com/foivz/pi2024-zadace-mcvitan21/blob/master/Zadatak%20-%20Gradski%20prijevoz.pdf
 
 ## Resursi
 (Zadaće je obvezno predati u obliku Wiki stranica na ovom repozitoriju. Slike i druge artefakte koje ćete koristiti na wiki stranicama smjestite u mapu dokumentacije u repozitoriju!)
