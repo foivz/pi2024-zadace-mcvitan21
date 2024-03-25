@@ -15,14 +15,14 @@ Sustav upravljanja gradskim prijevozom putnika
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Mark Cvitan | mcvitan21@student.foi.hr | 000000000 | mcvitan21
+Mark Cvitan | mcvitan21@student.foi.hr | 0016154264 | mcvitan21
 
 
 ## Opis domene
-(Vlastitim riječima opišite domenu ili problem koji pokriva projekt vaše zadaće!)
+Projekt se bavi digitalizacijom poslovanja gradskog autobusnog prijevoza u Varaždinu radi unapređenja kvalitete usluge i efikasnosti. Fokus je na uklanjanju papirnatih procesa kroz digitalno definiranje vozila, stanica, linija i vozni red. Cilj je poboljšati iskustvo putnika pružajući im jasne informacije o linijama i voznim redovima na autobusnim stanicama te omogućiti bržu i precizniju prodaju karata kako bi se smanjilo vrijeme ukrcavanja putnika. Također, projekt nastoji olakšati putovanje umirovljenicima pružajući im detaljne informacije o putovanju do željenih odredišta.
 
 ## Specifikacija projekta
-(Vlastitim riječima opišite zahtjeve za izradu ovog programskog proizvoda!)
+Zahtjevi za izradu ovog programske proizvoda uključuju digitalizaciju poslovnih procesa gradskog autobusnog prijevoza. Potrebno je razviti sustav za digitalno definiranje vozila, autobusnih stanica, linija i vozni red radi efikasnog upravljanja. Također je važno omogućiti putnicima pristup jasnim informacijama o linijama i voznim redovima na autobusnim stanicama te osigurati brzu i pouzdanu prodaju karata putem kioska. Sustav bi trebao podržavati praćenje broja putnika u autobusima radi boljeg upravljanja kapacitetima i osiguranja točnosti polazaka. Konačno, potrebno je implementirati funkcionalnosti koje će olakšati putovanje umirovljenicima pružanjem detaljnih informacija o putovanju do njihovih odredišta.
 
 ## Zadatak
 (U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje!)
