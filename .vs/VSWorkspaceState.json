@@ -4,8 +4,9 @@
     "\\Software",
     "\\Software\\eBus",
     "\\Software\\eBus\\eBus",
-    "\\Software\\eBus\\eBus\\Models"
+    "\\Software\\eBus\\eBus\\Models",
+    "\\Software\\eBus\\eBus\\Repositories"
   ],
-  "SelectedNode": "\\Software\\eBus\\eBus\\Models\\Vozilo.cs",
+  "SelectedNode": "\\Software\\eBus\\eBus\\DodavanjeVozneLinije.cs",
   "PreviewInSolutionExplorer": false
 }

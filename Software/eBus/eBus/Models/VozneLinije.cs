@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eBus.Models
 {
-    internal class VozneLinije
+    public class VozneLinije
     {
         public int ID_linije { get; set; }
         public string Popis_stanica { get; set; }

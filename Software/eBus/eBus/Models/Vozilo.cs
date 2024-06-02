@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eBus.Models
 {
-    internal class Vozilo
+    public class Vozilo
     {
         public int ID_vozila { get; set; }
         public string Model{ get; set; }
