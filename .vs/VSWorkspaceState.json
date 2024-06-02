@@ -3,8 +3,9 @@
     "",
     "\\Software",
     "\\Software\\eBus",
-    "\\Software\\eBus\\eBus"
+    "\\Software\\eBus\\eBus",
+    "\\Software\\eBus\\eBus\\Models"
   ],
-  "SelectedNode": "\\Software\\eBus\\eBus.sln",
+  "SelectedNode": "\\Software\\eBus\\eBus\\Models\\Vozilo.cs",
   "PreviewInSolutionExplorer": false
 }
