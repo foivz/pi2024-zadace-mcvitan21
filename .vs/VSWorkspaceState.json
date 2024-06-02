@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Software",
+    "\\Software\\eBus",
+    "\\Software\\eBus\\eBus"
   ],
-  "SelectedNode": "\\eBus.sln",
+  "SelectedNode": "\\Software\\eBus\\eBus.sln",
   "PreviewInSolutionExplorer": false
 }
