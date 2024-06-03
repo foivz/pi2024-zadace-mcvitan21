@@ -17,6 +17,9 @@ Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
 Mark Cvitan | mcvitan21@student.foi.hr | 0016154264 | mcvitan21
 
+Username: zaposlenik
+Password: test
+
 
 ## Opis domene
 Projekt se bavi digitalizacijom poslovanja gradskog autobusnog prijevoza u Varaždinu radi unapređenja kvalitete usluge i efikasnosti. Fokus je na uklanjanju papirnatih procesa kroz digitalno definiranje vozila, stanica, linija i vozni red. Cilj je poboljšati iskustvo putnika pružajući im jasne informacije o linijama i voznim redovima na autobusnim stanicama te omogućiti bržu i precizniju prodaju karata kako bi se smanjilo vrijeme ukrcavanja putnika. Također, projekt nastoji olakšati putovanje umirovljenicima pružajući im detaljne informacije o putovanju do željenih odredišta.
