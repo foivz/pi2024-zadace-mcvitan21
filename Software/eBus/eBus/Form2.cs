@@ -14,7 +14,6 @@ namespace eBus
 {
     public partial class Form2 : Form
     {
-        private Vozilo selectedVoznaLinija;
 
         public Form2()
         {
@@ -51,6 +50,18 @@ namespace eBus
         private void dgvVozila_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Brisanje linije = new Brisanje();
+            linije.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Pretrazivanje linije = new Pretrazivanje();
+            linije.ShowDialog();
         }
     }
 }

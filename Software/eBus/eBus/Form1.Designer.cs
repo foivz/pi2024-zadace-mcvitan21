@@ -87,8 +87,8 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "From1";
+            this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();
 

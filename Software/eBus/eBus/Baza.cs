@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DBLayer
 {
     public static class Database
     {
         private static string _connectionString = @"Data Source=31.147.206.65,1433;Initial Catalog=PI2324_mcvitan21_DB;User ID=PI2324_mcvitan21_User;Password=G45:$ddf;";
-
         private static SqlConnection _connection;
 
         public static void OpenConnection()
@@ -35,6 +30,11 @@ namespace DBLayer
         {
             SqlCommand command = new SqlCommand(sqlCommand, _connection);
             return command.ExecuteNonQuery();
+        }
+
+        public static SqlConnection Connection
+        {
+            get { return _connection; }
         }
     }
 }

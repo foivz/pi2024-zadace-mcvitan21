@@ -51,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Baza.cs" />
+    <Compile Include="Brisanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brisanje.Designer.cs">
+      <DependentUpon>Brisanje.cs</DependentUpon>
+    </Compile>
     <Compile Include="DodavanjeVozneLinije.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,11 +78,20 @@
     <Compile Include="Models\VozneLinije.cs" />
     <Compile Include="Models\Vozilo.cs" />
     <Compile Include="Models\Zaposlenik.cs" />
+    <Compile Include="Pretrazivanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pretrazivanje.Designer.cs">
+      <DependentUpon>Pretrazivanje.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\DodavanjeLinijaRepository.cs" />
     <Compile Include="Repositories\VoziloRepository.cs" />
     <Compile Include="Repositories\ZaposlenikRepository.cs" />
+    <EmbeddedResource Include="Brisanje.resx">
+      <DependentUpon>Brisanje.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DodavanjeVozneLinije.resx">
       <DependentUpon>DodavanjeVozneLinije.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +100,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pretrazivanje.resx">
+      <DependentUpon>Pretrazivanje.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
